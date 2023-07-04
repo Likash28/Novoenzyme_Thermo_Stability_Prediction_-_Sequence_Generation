@@ -3,7 +3,7 @@
 
 The Novoenzyme Thermo Stability Prediction - Sequence Generation is a Python-based tool developed to predict the thermal stability of enzymes and generate new enzyme sequences with improved stability. This tool combines machine learning techniques and sequence generation algorithms to provide accurate predictions and generate novel enzyme variants.
 
-# Compettion Description 
+# Competition Description 
 Novozymes find enzymes in nature and optimize them for use in industry. In industry, enzymes replace chemicals and accelerate production processes. They help our customers make more from less while saving energy and generating less waste. Enzymes are widely used in laundry and dishwashing detergents where they remove stains and enable low-temperature washing and concentrated detergents. Other enzymes improve the quality of bread, beer, and wine, or increase the nutritional value of animal feed. Enzymes are also used in the production of biofuels where they turn starch or cellulose from biomass into sugars which can be fermented to ethanol. These are just a few examples as we sell enzymes to more than 40 different industries. Like enzymes, microorganisms have natural properties that can be put to use in a variety of processes. Novozymes supply a range of microorganisms for use in agriculture, animal health and nutrition, industrial cleaning, and wastewater treatment.
 
 However, many enzymes are only marginally stable, which limits their performance under harsh application conditions. Instability also decreases the amount of protein that can be produced by the cell. Therefore, the development of efficient computational approaches to predict protein stability carries enormous technical and scientific interest. 
