@@ -12,7 +12,7 @@ This competition invites you to develop a model that predicts and ranks the ther
 
 **Thermal Stability Prediction**: Our tool harnesses the power of advanced machine learning models trained on extensive datasets to predict the thermal stability of enzymes. Simply input the amino acid sequence of an enzyme, and you'll receive a predicted thermal stability score.
 
-**Sequence Generation**: But that's not all! Using the predicted thermal stability scores, our tool can generate brand new enzyme sequences with improved stability. It employs generative models and evolutionary algorithms to explore the sequence space, seeking out sequences likely to exhibit enhanced thermal stability.
+**Sequence Generation**: But that's not all! Using the predicted thermal stability scores, our tool can generate brand-new enzyme sequences with improved stability. It employs generative models and evolutionary algorithms to explore the sequence space, seeking out sequences likely to exhibit enhanced thermal stability.
 
 **User-Friendly Interface**: We've made it easy! The tool offers a user-friendly command-line interface (CLI) that guides you through inputting enzyme sequences, predicting their thermal stability, and generating fresh sequences. It's as straightforward as following clear instructions and prompts.
 
