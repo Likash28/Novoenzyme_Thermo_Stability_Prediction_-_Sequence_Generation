@@ -17,10 +17,7 @@ This competition invites you to develop a model that predicts and ranks the ther
 **User-Friendly Interface**: We've made it easy! The tool offers a user-friendly command-line interface (CLI) that guides you through inputting enzyme sequences, predicting their thermal stability, and generating fresh sequences. It's as straightforward as following clear instructions and prompts.
 
 **Customization**: Tweak it your way! The tool allows customization of various parameters such as generation strategy, population size, and evolutionary operators, so you can fine-tune the sequence generation process to match your specific needs.
-
-**Performance Evaluation**: You get comprehensive performance evaluations. Assess the reliability of thermal stability predictions with metrics like accuracy, precision, recall, and the F1-score.
-
-**Data Visualization**: We've got visuals! Analyze and interpret results using data visualization capabilities. Generate plots and charts to visualize predicted stability score distributions, compare different sequences, and track sequence generation progress.
+pabilities. Generate plots and charts to visualize predicted stability score distributions, compare different sequences, and track sequence generation progress.
 
 ## Dependencies 🧩
 
